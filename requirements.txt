@@ -1,7 +1,6 @@
 tensorflow
-pickle
 numpy
-scipy
+scipy<=1.1.0
 scikit-learn
 opencv-python
 h5py
@@ -11,3 +10,5 @@ requests
 psutil
 flask
 six
+flask-httpauth
+

@@ -1,0 +1,7 @@
+/content/drive/My Drive/Face_Recognition/datasets/aligned/moti/IMG_20190731_213123_0.png 518 1124 1079 1634
+/content/drive/My Drive/Face_Recognition/datasets/aligned/moti/IMG_20190720_101638_0.png 1574 963 2421 1737
+/content/drive/My Drive/Face_Recognition/datasets/aligned/moti/IMG_20190710_072354_0.png 1042 763 1834 1494
+/content/drive/My Drive/Face_Recognition/datasets/aligned/moti/IMG_20190713_101805.png
+/content/drive/My Drive/Face_Recognition/datasets/aligned/moti/IMG_20190725_085517_0.png 1592 212 2193 1012
+/content/drive/My Drive/Face_Recognition/datasets/aligned/moti/IMG_20190731_213447_0.png 302 1062 916 1712
+/content/drive/My Drive/Face_Recognition/datasets/aligned/moti/IMG_20190720_101535.png
